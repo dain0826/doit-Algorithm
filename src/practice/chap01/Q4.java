@@ -1,8 +1,6 @@
 package practice.chap01;
 
-import java.util.Scanner;
-
-public class Median {
+public class Q4 {
     static int med3(int a, int b, int c){
         if(a>=b)
             if(b>=c)
